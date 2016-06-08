@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:50.212929
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:04
 #+TITLE: 救諸眾生一切苦難經
 #+PROPERTY: CBETA_ID T85n2915
 #+PROPERTY: ID KR6u0051
@@ -38,7 +38,7 @@ No.2915¶
 　先須斷酒肉
 　貪嗔更莫生¶
 　人能慎此事
-　佛道一時□
+　佛道一時□」
 #+END_VERSE
-」¶
+¶
 救諸眾生一切苦難經一卷
