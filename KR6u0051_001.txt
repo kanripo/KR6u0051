@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:50.212929
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:04
 #+TITLE: 救諸眾生一切苦難經
 #+PROPERTY: CBETA_ID T85n2915
 #+PROPERTY: ID KR6u0051
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2915
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6u0051_T_000-1461c>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6u0051_T_001-1461c> ¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2915¶
-
- 救諸眾生一切苦難經¶
+No. 2915¶
+救諸眾生一切苦難經¶
 ¶
 
 天台山中有一老師。年可九□□□□□□¶
@@ -38,7 +37,7 @@ No.2915¶
 　先須斷酒肉
 　貪嗔更莫生¶
 　人能慎此事
-　佛道一時□
+　佛道一時□」
 #+END_VERSE
-」¶
+¶
 救諸眾生一切苦難經一卷
